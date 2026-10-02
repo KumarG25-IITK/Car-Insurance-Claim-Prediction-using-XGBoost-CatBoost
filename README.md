@@ -16,7 +16,7 @@ Predicting insurance claims is a critical two-part challenge for risk management
   * F1 Score (Weighted): `[0.77]`
 * **Regression (Claim Severity):** 
   * RMSE: `[RMSE: 8378.846093356431]`
-  * MAE:  `[MAE3556.2627508324217]`
+  * MAE:  `[MAE : 3556.2627508324217]`
 
 ## Tech Stack
 * **Algorithms:** XGBoost, Stochastic Gradient Descent (SGD)
